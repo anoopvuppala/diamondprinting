@@ -1,0 +1,2 @@
+# diamondprinting
+diamond printing using *
